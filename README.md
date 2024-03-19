@@ -1,2 +1,2 @@
 # Weather_app
-A weather app made using python 
+A weather app made using python and openweathermap API
